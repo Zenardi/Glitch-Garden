@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 9e6e1e3a46e422d46b957e044d0ef73d
+timeCreated: 1470520452
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Talking_0
+    21300002: Talking_1
+    21300004: Talking_2
+    21300006: Talking_3
+    21300008: Talking_4
+    21300010: Talking_5
+    21300012: Talking_6
+    21300014: Talking_7
+    21300016: Talking_8
+    21300018: Talking_9
+    21300020: Talking_10
+    21300022: Talking_11
+    21300024: Talking_12
+    21300026: Talking_13
+    21300028: Talking_14
+    21300030: Talking_15
+    21300032: Talking_16
+    21300034: Talking_17
+    21300036: Talking_18
+    21300038: Talking_19
+    21300040: Talking_20
+    21300042: Talking_21
+    21300044: Talking_22
+    21300046: Talking_23
+    21300048: Talking_24
+    21300050: Talking_25
+    21300052: Talking_26
+    21300054: Talking_27
+    21300056: Talking_28
+    21300058: Talking_29
+    21300060: Talking_30
+    21300062: Talking_31
+    21300064: Talking_32
+    21300066: Talking_33
+    21300068: Talking_34
+    21300070: Talking_35
+    21300072: Talking_36
+    21300074: Talking_37
+    21300076: Talking_38
+    21300078: Talking_39
+    21300080: Talking_40
+    21300082: Talking_41
+    21300084: Talking_42
+    21300086: Talking_43
+    21300088: Talking_44
+    21300090: Talking_45
+    21300092: Talking_46
+    21300094: Talking_47
+    21300096: Talking_48
+    21300098: Talking_49
+    21300100: Talking_50
+    21300102: Talking_51
+    21300104: Talking_52
+    21300106: Talking_53
+    21300108: Talking_54
+    21300110: Talking_55
+    21300112: Talking_56
+    21300114: Talking_57
+    21300116: Talking_58
+    21300118: Talking_59
+    21300120: Talking_60
+    21300122: Talking_61
+    21300124: Talking_62
+    21300126: Talking_63
+    21300128: Talking_64
+    21300130: Talking_65
+    21300132: Talking_66
+    21300134: Talking_67
+    21300136: Talking_68
+    21300138: Talking_69
+    21300140: Talking_70
+    21300142: Talking_71
+    21300144: Talking_72
+    21300146: Talking_73
+    21300148: Talking_74
+    21300150: Talking_75
+    21300152: Talking_76
+    21300154: Talking_77
+    21300156: Talking_78
+    21300158: Talking_79
+    21300160: Talking_80
+    21300162: Talking_81
+    21300164: Talking_82
+    21300166: Talking_83
+    21300168: Talking_84
+    21300170: Talking_85
+    21300172: Talking_86
+    21300174: Talking_87
+    21300176: Talking_88
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.3333
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Talking_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Talking_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -11}
+        - {x: -90.5, y: -30}
+        - {x: -76.5, y: -70}
+        - {x: -66.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -42}
+        - {x: -41.5, y: 11}
+    - name: Talking_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -39}
+        - {x: -76.5, y: -71}
+        - {x: -68.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Talking_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -59}
+        - {x: -71.5, y: -73}
+        - {x: -9.5, y: -73}
+        - {x: -6.5, y: -71}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Talking_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -59}
+        - {x: -71.5, y: -73}
+        - {x: -9.5, y: -73}
+        - {x: -6.5, y: -71}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Talking_5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -9}
+        - {x: -90.5, y: -32}
+        - {x: -75.5, y: -70}
+        - {x: -59.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: Talking_6
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -44}
+        - {x: -82.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Talking_7
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 17}
+        - {x: -76.5, y: 16}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -27}
+        - {x: -77.5, y: -72}
+        - {x: -66.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -42}
+        - {x: -48.5, y: 17}
+    - name: Talking_8
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -80.5, y: 16}
+        - {x: -90.5, y: -9}
+        - {x: -90.5, y: -34}
+        - {x: -76.5, y: -66}
+        - {x: -74.5, y: -68}
+        - {x: -61.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -62}
+        - {x: -6.5, y: -48}
+        - {x: -46.5, y: 17}
+    - name: Talking_9
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 17}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -27}
+        - {x: -77.5, y: -72}
+        - {x: -73.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -31}
+        - {x: -28.5, y: 17}
+    - name: Talking_10
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 17}
+        - {x: -90.5, y: -50}
+        - {x: -87.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: 0}
+        - {x: -39.5, y: 17}
+    - name: Talking_11
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -41.5, y: 9}
+        - {x: -48.5, y: 17}
+        - {x: -76.5, y: 17}
+        - {x: -89.5, y: -8}
+        - {x: -89.5, y: -38}
+        - {x: -76.5, y: -71}
+        - {x: -59.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Talking_12
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.5, y: 17}
+        - {x: -90.5, y: 12}
+        - {x: -90.5, y: -34}
+        - {x: -76.5, y: -71}
+        - {x: -59.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -20}
+        - {x: -19.5, y: 17}
+    - name: Talking_13
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -74.5, y: 17}
+        - {x: -89.5, y: -3}
+        - {x: -89.5, y: -63}
+        - {x: -88.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: Talking_14
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -6}
+        - {x: -89.5, y: -20}
+        - {x: -77.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Talking_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -3}
+        - {x: -89.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: Talking_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -3}
+        - {x: -89.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: Talking_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -3}
+        - {x: -89.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: Talking_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -5}
+        - {x: -89.5, y: -21}
+        - {x: -77.5, y: -72}
+        - {x: -70.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Talking_19
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -1}
+        - {x: -89.5, y: -34}
+        - {x: -79.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Talking_20
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: 17}
+        - {x: -78.5, y: 17}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -34}
+        - {x: -76.5, y: -70}
+        - {x: -67.5, y: -73}
+        - {x: -29.5, y: -73}
+        - {x: -6.5, y: -59}
+        - {x: -6.5, y: -51}
+        - {x: -8.5, y: -48}
+    - name: Talking_21
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -90.5, y: -7}
+        - {x: -90.5, y: -19}
+        - {x: -76.5, y: -70}
+        - {x: -65.5, y: -73}
+        - {x: -29.5, y: -73}
+        - {x: -6.5, y: -63}
+        - {x: -6.5, y: -49}
+        - {x: -7.5, y: -47}
+    - name: Talking_22
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -80.5, y: 17}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -32}
+        - {x: -78.5, y: -67}
+        - {x: -60.5, y: -73}
+        - {x: -18.5, y: -73}
+        - {x: -6.5, y: -70}
+        - {x: -6.5, y: -38}
+        - {x: -37.5, y: 15}
+    - name: Talking_23
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 18}
+        - {x: -87.5, y: 18}
+        - {x: -90.5, y: 13}
+        - {x: -90.5, y: -46}
+        - {x: -73.5, y: -73}
+        - {x: -29.5, y: -73}
+        - {x: -6.5, y: -63}
+        - {x: -6.5, y: -43}
+        - {x: -31.5, y: 12}
+    - name: Talking_24
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.5, y: 18}
+        - {x: -91.5, y: -2}
+        - {x: -91.5, y: -66}
+        - {x: -87.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -18}
+        - {x: -35.5, y: 18}
+    - name: Talking_25
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 18}
+        - {x: -91.5, y: 15}
+        - {x: -91.5, y: -60}
+        - {x: -88.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -46}
+        - {x: -40.5, y: 18}
+    - name: Talking_26
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91.5, y: -46}
+        - {x: -81.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -43}
+        - {x: -29.5, y: 18}
+        - {x: -73.5, y: 18}
+        - {x: -91.5, y: 5}
+    - name: Talking_27
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 18}
+        - {x: -91.5, y: -7}
+        - {x: -91.5, y: -48}
+        - {x: -75.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -46}
+        - {x: -43.5, y: 18}
+    - name: Talking_28
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: -56}
+        - {x: -70.5, y: -73}
+        - {x: -21.5, y: -73}
+        - {x: -6.5, y: -70}
+        - {x: -6.5, y: -30}
+        - {x: -26.5, y: 16}
+        - {x: -34.5, y: 18}
+        - {x: -84.5, y: 18}
+        - {x: -90.5, y: 4}
+    - name: Talking_29
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -80.5, y: 17}
+        - {x: -90.5, y: 6}
+        - {x: -90.5, y: -44}
+        - {x: -83.5, y: -73}
+        - {x: -29.5, y: -73}
+        - {x: -6.5, y: -69}
+        - {x: -6.5, y: -39}
+        - {x: -37.5, y: 15}
+    - name: Talking_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 17}
+        - {x: -90.5, y: -43}
+        - {x: -81.5, y: -73}
+        - {x: -16.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: 3}
+        - {x: -28.5, y: 17}
+    - name: Talking_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: 17}
+        - {x: -88.5, y: -5}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -36}
+        - {x: -79.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -34}
+        - {x: -32.5, y: 17}
+    - name: Talking_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 17}
+        - {x: -89.5, y: 0}
+        - {x: -89.5, y: -39}
+        - {x: -83.5, y: -63}
+        - {x: -75.5, y: -69}
+        - {x: -64.5, y: -73}
+        - {x: -26.5, y: -73}
+        - {x: -6.5, y: -63}
+        - {x: -6.5, y: -47}
+        - {x: -46.5, y: 17}
+    - name: Talking_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -7}
+        - {x: -89.5, y: -20}
+        - {x: -75.5, y: -70}
+        - {x: -59.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Talking_34
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -81.5, y: 17}
+        - {x: -89.5, y: 7}
+        - {x: -89.5, y: -63}
+        - {x: -78.5, y: -73}
+        - {x: -14.5, y: -73}
+        - {x: -6.5, y: -59}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: Talking_35
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -82.5, y: 17}
+        - {x: -89.5, y: 4}
+        - {x: -89.5, y: -67}
+        - {x: -79.5, y: -73}
+        - {x: -14.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -47}
+        - {x: -39.5, y: 7}
+    - name: Talking_36
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+        - {x: -39.5, y: 7}
+        - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -89.5, y: -7}
+        - {x: -89.5, y: -17}
+        - {x: -80.5, y: -26}
+        - {x: -84.5, y: -35}
+        - {x: -76.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Talking_37
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -25}
+        - {x: -79.5, y: -68}
+        - {x: -63.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -40}
+        - {x: -42.5, y: 17}
+    - name: Talking_38
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -88.5, y: -6}
+        - {x: -89.5, y: -7}
+        - {x: -89.5, y: -38}
+        - {x: -80.5, y: -69}
+        - {x: -64.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -36}
+        - {x: -32.5, y: 14}
+    - name: Talking_39
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -9}
+        - {x: -46.5, y: 17}
+        - {x: -90.5, y: 17}
+        - {x: -90.5, y: -22}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -58}
+    - name: Talking_40
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: 17}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -35}
+        - {x: -75.5, y: -69}
+        - {x: -64.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -61}
+        - {x: -6.5, y: -48}
+        - {x: -43.5, y: 17}
+    - name: Talking_41
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 17}
+        - {x: -78.5, y: 16}
+        - {x: -90.5, y: -13}
+        - {x: -90.5, y: -30}
+        - {x: -79.5, y: -68}
+        - {x: -59.5, y: -73}
+        - {x: -36.5, y: -73}
+        - {x: -6.5, y: -63}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 17}
+    - name: Talking_42
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90.5, y: 17}
+        - {x: -90.5, y: -73}
+        - {x: -20.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -35}
+        - {x: -31.5, y: 17}
+    - name: Talking_43
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 9}
+        - {x: -48.5, y: 17}
+        - {x: -65.5, y: 17}
+        - {x: -75.5, y: 15}
+        - {x: -90.5, y: -9}
+        - {x: -90.5, y: -34}
+        - {x: -87.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -53}
+        - {x: -8.5, y: -48}
+    - name: Talking_44
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Talking_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -11}
+        - {x: -90.5, y: -30}
+        - {x: -76.5, y: -70}
+        - {x: -66.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -42}
+        - {x: -41.5, y: 11}
+    - name: Talking_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -39}
+        - {x: -76.5, y: -71}
+        - {x: -68.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Talking_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -59}
+        - {x: -71.5, y: -73}
+        - {x: -9.5, y: -73}
+        - {x: -6.5, y: -71}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Talking_48
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -59}
+        - {x: -71.5, y: -73}
+        - {x: -9.5, y: -73}
+        - {x: -6.5, y: -71}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Talking_49
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -9}
+        - {x: -90.5, y: -32}
+        - {x: -75.5, y: -70}
+        - {x: -59.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: Talking_50
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -44}
+        - {x: -82.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Talking_51
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Talking_52
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -7.5, y: -73}
+        - {x: -6.5, y: -72}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Talking_53
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_54
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: Talking_55
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -44}
+        - {x: -82.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Talking_56
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Talking_57
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -11}
+        - {x: -90.5, y: -32}
+        - {x: -78.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_58
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -33}
+        - {x: -75.5, y: -70}
+        - {x: -64.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+    - name: Talking_59
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -76.5, y: -70}
+        - {x: -64.5, y: -73}
+        - {x: -28.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -43}
+        - {x: -43.5, y: 17}
+    - name: Talking_63
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 17}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -40}
+        - {x: -76.5, y: -70}
+        - {x: -67.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Talking_64
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Talking_65
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -11}
+        - {x: -90.5, y: -32}
+        - {x: -78.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_66
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -33}
+        - {x: -75.5, y: -70}
+        - {x: -64.5, y: -73}
+        - {x: -27.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+    - name: Talking_67
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -38}
+        - {x: -17.5, y: -18}
+        - {x: -45.5, y: 17}
+        - {x: -76.5, y: 17}
+        - {x: -90.5, y: -13}
+        - {x: -90.5, y: -27}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_68
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -38}
+        - {x: -17.5, y: -18}
+        - {x: -45.5, y: 17}
+        - {x: -76.5, y: 17}
+        - {x: -90.5, y: -13}
+        - {x: -90.5, y: -27}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_69
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -38}
+        - {x: -17.5, y: -18}
+        - {x: -45.5, y: 17}
+        - {x: -81.5, y: 17}
+        - {x: -90.5, y: -7}
+        - {x: -90.5, y: -47}
+        - {x: -77.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_70
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -7.5, y: -73}
+        - {x: -6.5, y: -72}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Talking_71
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.5, y: 17}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -73}
+        - {x: -16.5, y: -73}
+        - {x: -6.5, y: -67}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Talking_72
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -71.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -14}
+        - {x: -90.5, y: -26}
+        - {x: -75.5, y: -70}
+        - {x: -59.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_73
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_74
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -75.5, y: -70}
+        - {x: -57.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_76
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -15}
+        - {x: -90.5, y: -23}
+        - {x: -76.5, y: -70}
+        - {x: -64.5, y: -73}
+        - {x: -28.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -43}
+        - {x: -43.5, y: 17}
+    - name: Talking_77
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: 17}
+        - {x: -90.5, y: -8}
+        - {x: -90.5, y: -40}
+        - {x: -76.5, y: -70}
+        - {x: -67.5, y: -73}
+        - {x: -23.5, y: -73}
+        - {x: -6.5, y: -66}
+        - {x: -6.5, y: -36}
+        - {x: -35.5, y: 17}
+    - name: Talking_78
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Talking_79
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Talking_80
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -7.5, y: -73}
+        - {x: -6.5, y: -72}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Talking_81
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_82
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: Talking_83
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -40}
+        - {x: -19.5, y: -19}
+        - {x: -44.5, y: 17}
+        - {x: -72.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -6}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -41.5, y: -73}
+        - {x: -34.5, y: -65}
+        - {x: -14.5, y: -64}
+        - {x: -6.5, y: -63}
+    - name: Talking_84
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: 17}
+        - {x: -69.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: -5}
+        - {x: -90.5, y: -43}
+        - {x: -80.5, y: -73}
+        - {x: -35.5, y: -73}
+        - {x: -6.5, y: -64}
+        - {x: -6.5, y: -41}
+        - {x: -41.5, y: 11}
+    - name: Talking_85
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -7.5, y: -73}
+        - {x: -6.5, y: -72}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Talking_86
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 3}
+        - {x: -90.5, y: -44}
+        - {x: -82.5, y: -73}
+        - {x: -24.5, y: -73}
+        - {x: -6.5, y: -65}
+        - {x: -6.5, y: -41}
+        - {x: -43.5, y: 17}
+    - name: Talking_87
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    - name: Talking_88
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 17}
+        - {x: -79.5, y: 15}
+        - {x: -90.5, y: 4}
+        - {x: -90.5, y: -55}
+        - {x: -73.5, y: -73}
+        - {x: -6.5, y: -73}
+        - {x: -6.5, y: -39}
+        - {x: -44.5, y: 17}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
